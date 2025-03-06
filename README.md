@@ -13,4 +13,6 @@ A modern, user-friendly weather web application that fetches real-time weather d
 - **HTML, CSS, JavaScript**
 - **OpenWeather API**
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/167e24fd-f57e-4255-9835-e93e29ba306f" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a6714567-1b2e-4006-8ea6-f9f7b1f0c4df" />
 
